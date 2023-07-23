@@ -15,8 +15,8 @@ div{
     background-color: white;
     padding: 20px 30px;
     border-radius: 20px;
-    box-shadow: 0px 0px 20px rgba(133, 0, 13, 0.744);
-    margin-top: 5vh;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.744);
+    margin-top: 10vh;
 }
 h1{
     display: grid;
